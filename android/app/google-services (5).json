@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824920328948",
+    "project_id": "phoneotp-a6c29",
+    "storage_bucket": "phoneotp-a6c29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824920328948:android:feefb55317aaeaa3776ca1",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824920328948-8ml7su54v0n9po74nijkajl8ijav30ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkRY4bH52Y7DeQ01P30QO0l-WdB4e5CaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824920328948-8ml7su54v0n9po74nijkajl8ijav30ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
